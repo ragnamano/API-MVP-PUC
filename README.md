@@ -31,4 +31,4 @@ automaticamente após uma mudança no código fonte.
 (env)$ flask run --host 127.0.0.1 --port 5001 --reload
 ```
 
-Abra o [http://localhost:5001/#/](http://localhost:5001/#/) no navegador para verificar o status da API em execução.
+Abra o [http://localhost:5001/](http://localhost:5001/) no navegador para verificar o status da API em execução.
